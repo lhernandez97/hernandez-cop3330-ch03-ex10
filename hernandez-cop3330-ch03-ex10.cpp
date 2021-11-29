@@ -43,9 +43,9 @@ int main() {
     //class object and necessary variables
     Calculate calc;
     double num1, num2;
-    string operator;
+    string op;
     //get the inputs from the user
-    cin >> operator;
+    cin >> op;
     cin >> num1;
     cin >> num2;
     //get the result
